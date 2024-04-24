@@ -1,0 +1,416 @@
+{
+  "data": {
+    "eventPresencePage": [
+      {
+        "user": {
+          "id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+          "email": "jana.newbie@world.com",
+          "fullname": "Jana Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "UO"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "FVT"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "K-209"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "P"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "organizátor"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f34a-ae0f-11ed-9bd8-0242ac110002",
+          "email": "jolana.newbie@world.com",
+          "fullname": "Jolana Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "LAB"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f3cc-ae0f-11ed-9bd8-0242ac110002",
+          "email": "jitka.newbie@world.com",
+          "fullname": "Jitka Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f430-ae0f-11ed-9bd8-0242ac110002",
+          "email": "jaroslava.newbie@world.com",
+          "fullname": "Jaroslava Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f48a-ae0f-11ed-9bd8-0242ac110002",
+          "email": "lada.newbie@world.com",
+          "fullname": "Lada Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f4e4-ae0f-11ed-9bd8-0242ac110002",
+          "email": "ludmila.newbie@world.com",
+          "fullname": "Ludmila Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f534-ae0f-11ed-9bd8-0242ac110002",
+          "email": "lucie.newbie@world.com",
+          "fullname": "Lucie Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f58e-ae0f-11ed-9bd8-0242ac110002",
+          "email": "nola.newbie@world.com",
+          "fullname": "Nola Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f5de-ae0f-11ed-9bd8-0242ac110002",
+          "email": "neva.newbie@world.com",
+          "fullname": "Neva Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "UO"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "FVT"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "K-209"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      },
+      {
+        "user": {
+          "id": "89d1f638-ae0f-11ed-9bd8-0242ac110002",
+          "email": "nora.newbie@world.com",
+          "fullname": "Nora Newbie",
+          "membership": [
+            {
+              "group": {
+                "id": "2d9dcd22-a4a2-11ed-b9df-0242ac120003",
+                "name": "Uni"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dced0-a4a2-11ed-b9df-0242ac120003",
+                "name": "Fac"
+              }
+            },
+            {
+              "group": {
+                "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
+                "name": "Dep"
+              }
+            }
+          ]
+        },
+        "event": {
+          "id": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+          "name": "Zkouška",
+          "startdate": "2023-04-19T08:00:00",
+          "enddate": "2023-04-19T09:00:00",
+          "eventType": {
+            "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
+            "name": "Ostatní"
+          }
+        },
+        "invitationType": {
+          "id": "e871403c-a79c-11ed-b76e-0242ac110002",
+          "name": "přijal"
+        }
+      }
+    ]
+  }
+}

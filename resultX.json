@@ -1,0 +1,14 @@
+[
+    {
+        "teacher_name": "Jana Newbie",
+        "teacher_id": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+        "event_type": "P",
+        "membership": [
+            "UO",
+            "FVT",
+            "K-209"
+        ],
+        "invitation_type": "organiz\u00e1tor",
+        "lesson_length": 60.0
+    }
+]
