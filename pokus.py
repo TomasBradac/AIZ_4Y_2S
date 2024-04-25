@@ -19,10 +19,9 @@ async def load_json_data(path):
 
 
 async def user_attendance(data: Dict) -> List:
-    user_attendance_data = data['data']['eventPresencePage']
     sourceTable = []
     
-    for item in user_attendance_data:
+    for item in data['data']['eventPresencePage']:
         is_teacher = item['invitationType']['name']
         #print(is_teacher)
         if is_teacher == "organizátor":
@@ -36,6 +35,10 @@ async def user_attendance(data: Dict) -> List:
             event_end = datetime.datetime.fromisoformat(item['event']['enddate'])
             row["lesson_length"] = (event_end - event_start).total_seconds() / 60 #in minutes
             sourceTable.append(row)
+            #-------TODO-------
+            #add if statement for special group
+                #teachers in special group
+            #search by ID not by name
    
     print(sourceTable)
     
