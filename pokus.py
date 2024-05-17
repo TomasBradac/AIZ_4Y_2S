@@ -20,22 +20,27 @@ async def load_json_data(path):
 
 async def user_attendance(data: Dict) -> List:
     sourceTable = []
-    
+    specific_group = "K-209"
+
     for item in data['data']['eventPresencePage']:
-        is_teacher = item['invitationType']['name']
-        #print(is_teacher)
-        if is_teacher == "organizátor":
-            row = {}
-            row['teacher_name'] = item['user']['fullname']
-            row['teacher_id'] = item['user']['id']
-            row["event_type"] = item['event']['eventType']['name']
-            row["membership"] = [group['group']['name'] for group in item['user']['membership']]
-            row["invitation_type"] = item['invitationType']['name']
-            event_start = datetime.datetime.fromisoformat(item['event']['startdate'])
-            event_end = datetime.datetime.fromisoformat(item['event']['enddate'])
-            row["lesson_length"] = (event_end - event_start).total_seconds() / 60 #in minutes
-            sourceTable.append(row)
+        is_teacher = item['invitationType']['name'] #In production 'name' use will be changed for ID
+        
+        if is_teacher == "organizátor": #In production use will be changed for ID
+            user_groups = [group['group']['name'] for group in item['user']['membership']] #In production 'name' use will be changed for ID
+            
+            if specific_group in user_groups:
+                row = {}
+                row["membership"] = specific_group
+                row['teacher_name'] = item['user']['fullname']
+                row['teacher_id'] = item['user']['id']
+                row["event_type"] = item['event']['eventType']['name']
+                row["invitation_type"] = item['invitationType']['name']
+                event_start = datetime.datetime.fromisoformat(item['event']['startdate'])
+                event_end = datetime.datetime.fromisoformat(item['event']['enddate'])
+                row["lesson_length"] = (event_end - event_start).total_seconds() / 60 #in minutes
+                sourceTable.append(row)
             #-------TODO-------
+        
             #add if statement for special group
                 #teachers in special group
             #search by ID not by name
@@ -43,7 +48,7 @@ async def user_attendance(data: Dict) -> List:
     print(sourceTable)
     
 
-    with open('resultX.json',"w", encoding='utf-8') as outputFile:
+    with open('result.json',"w", encoding='utf-8') as outputFile:
         json.dump(sourceTable, outputFile)
 
 

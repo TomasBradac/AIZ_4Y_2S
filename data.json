@@ -239,7 +239,7 @@
           "enddate": "2023-04-19T09:00:00",
           "eventType": {
             "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-            "name": "Ostatní"
+            "name": "SEM"
           }
         },
         "invitationType": {
@@ -391,7 +391,7 @@
             {
               "group": {
                 "id": "2d9dd1c8-a4a2-11ed-b9df-0242ac120003",
-                "name": "Dep"
+                "name": "K-209"
               }
             }
           ]
@@ -403,12 +403,12 @@
           "enddate": "2023-04-19T09:00:00",
           "eventType": {
             "id": "b87d3ff0-8fd4-11ed-a6d4-0242ac110002",
-            "name": "Ostatní"
+            "name": "SEM"
           }
         },
         "invitationType": {
           "id": "e871403c-a79c-11ed-b76e-0242ac110002",
-          "name": "přijal"
+          "name": "organizátor"
         }
       }
     ]
