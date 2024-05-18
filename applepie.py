@@ -29,7 +29,7 @@ lesson_lengths_values = list(event_lengths.values())
 plt.figure(figsize=(8, 8))
 plt.pie(lesson_lengths_values, labels=event_types, autopct='%1.1f%%', startangle=140)
 plt.title(f'Total Lesson Length by Event Type for {selected_teacher}')
-plt.axis('equal')  # Equal aspect ratio ensures that pie is drawn as a circle.
+plt.axis('equal')
 
 
 plt.show()
