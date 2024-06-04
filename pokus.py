@@ -48,12 +48,13 @@ async def user_attendance(data: Dict) -> List:
     print(sourceTable)
     
 
-    with open('result.json',"w", encoding='utf-8') as outputFile:
+    with open('resultpokus.json',"w", encoding='utf-8') as outputFile:
         json.dump(sourceTable, outputFile)
 
 
 async def main():
-    data = await load_json_data('data.json')
+    data = await load_json_data('pokus.json')
     await user_attendance(data)
+    
 
 asyncio.run(main())
