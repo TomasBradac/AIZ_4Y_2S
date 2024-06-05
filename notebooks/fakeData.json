@@ -28,7 +28,7 @@
         "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Jana Newbie",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "eventName": "AIZ",
+        "eventName": "ABT",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
@@ -116,9 +116,42 @@
         "userID": "29d1e724-ae0f-11ed-9bd7-0242ac110002",
         "userFullname": "Jan Plul",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
-        "eventName": "ZaP",
+        "eventName": "DUP",
         "startdate": "2023-05-19T08:00:00",
         "eventEndDate": "2023-05-19T09:30:00",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
+    },
+    {
+        "groupID": "groupIdOfK205",
+        "groupName": "K205",
+        "userID": "29d1e724-ae0f-11ed-9bd7-0242ac110002",
+        "userFullname": "Jan Plul",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "PUP",
+        "startdate": "2023-04-19T08:00:00",
+        "eventEndDate": "2023-04-19T09:00:00",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
+    },
+    {
+        "groupID": "groupIdOfK205",
+        "groupName": "K205",
+        "userID": "29d1e724-ae0f-11ed-9bd7-0242ac110002",
+        "userFullname": "Jan Plul",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "HAPUP",
+        "startdate": "2023-04-19T08:00:00",
+        "eventEndDate": "2023-04-19T09:30:00",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
+    },
+    {
+        "groupID": "groupIdOfK205",
+        "groupName": "K205",
+        "userID": "29d1e724-ae0f-11ed-9bd7-0242ac110002",
+        "userFullname": "Jan Plul",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "HAPUP",
+        "startdate": "2023-04-19T08:00:00",
+        "eventEndDate": "2023-04-19T09:30:00",
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     }
 ]
