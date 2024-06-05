@@ -8,10 +8,8 @@
         "eventName": "ABT",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1e684-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 10
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002" 
+
     },
     {
         "groupID": "groupIdOfK209",
@@ -22,10 +20,7 @@
         "eventName": "KYB",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f2d2-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e444444c-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "p\u0159ijal",
-        "presencesCount": 10
+        "invitationTypeID": "e444444c-a79c-11ed-b76e-0242ac110002"
     },
     {
         "groupID": "groupIdOfK209",
@@ -36,10 +31,29 @@
         "eventName": "AIZ",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 10
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
+    },
+    {
+        "groupID": "groupIdOfK209",
+        "groupName": "K209",
+        "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+        "userFullname": "Jana Newbie",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "AIZ",
+        "startdate": "2023-06-19T08:00:00",
+        "eventEndDate": "2023-06-19T09:30:00",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
+    },
+    {
+        "groupID": "groupIdOfK209",
+        "groupName": "K209",
+        "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+        "userFullname": "Jana Newbie",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "AIZ",
+        "startdate": "2023-08-19T08:00:00",
+        "eventEndDate": "2023-08-19T09:30:00",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     },
     {
         "groupID": "groupIdOfK209",
@@ -50,10 +64,7 @@
         "eventName": "INF",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 15
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     },
     {
         "groupID": "groupIdOfK209",
@@ -64,10 +75,7 @@
         "eventName": "ZaP",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 4
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     },
     {
         "groupID": "groupIdOfK201",
@@ -78,10 +86,7 @@
         "eventName": "INF",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 15
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     },
     {
         "groupID": "groupIdOfK201",
@@ -92,10 +97,7 @@
         "eventName": "ZaP",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 5
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     },
     {
         "groupID": "groupIdOfK205",
@@ -106,9 +108,17 @@
         "eventName": "ZaP",
         "startdate": "2023-04-19T08:00:00",
         "eventEndDate": "2023-04-19T09:00:00",
-        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
-        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "presencesCount": 8
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
+    },
+    {
+        "groupID": "groupIdOfK205",
+        "groupName": "K205",
+        "userID": "29d1e724-ae0f-11ed-9bd7-0242ac110002",
+        "userFullname": "Jan Plul",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "ZaP",
+        "startdate": "2023-05-19T08:00:00",
+        "eventEndDate": "2023-05-19T09:30:00",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002"
     }
 ]

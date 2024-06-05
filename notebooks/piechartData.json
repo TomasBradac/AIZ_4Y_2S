@@ -5,8 +5,7 @@
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
         "eventName": "ABT",
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "lessonLength": 900
+        "lessonLength": 60.0
     },
     {
         "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
@@ -14,8 +13,23 @@
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
         "eventName": "AIZ",
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "lessonLength": 900
+        "lessonLength": 60.0
+    },
+    {
+        "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+        "userFullname": "Jana Newbie",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "AIZ",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
+        "lessonLength": 90.0
+    },
+    {
+        "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
+        "userFullname": "Jana Newbie",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "AIZ",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
+        "lessonLength": 90.0
     },
     {
         "userID": "29d1e724-ae0f-11ed-9bd8-0242ac110002",
@@ -23,8 +37,7 @@
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
         "eventName": "INF",
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "lessonLength": 1350
+        "lessonLength": 60.0
     },
     {
         "userID": "29d1e724-ae0f-11ed-9bd8-0242ac110002",
@@ -32,7 +45,6 @@
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
         "eventName": "ZaP",
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
-        "invitationTypeName": "organizator",
-        "lessonLength": 360
+        "lessonLength": 60.0
     }
 ]
