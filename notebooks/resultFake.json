@@ -1,6 +1,7 @@
 [
     {
         "groupID": "groupIdOfK209",
+        "groupName": "K209",
         "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Jana Newbie",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
@@ -14,6 +15,7 @@
     },
     {
         "groupID": "groupIdOfK209",
+        "groupName": "K209",
         "userID": "19d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Jana BUBU",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
@@ -27,6 +29,7 @@
     },
     {
         "groupID": "groupIdOfK209",
+        "groupName": "K209",
         "userID": "89d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Jana Newbie",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
@@ -40,6 +43,7 @@
     },
     {
         "groupID": "groupIdOfK209",
+        "groupName": "K209",
         "userID": "29d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Karel Nekarel",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
@@ -53,6 +57,7 @@
     },
     {
         "groupID": "groupIdOfK209",
+        "groupName": "K209",
         "userID": "29d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Ivan Pytel",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
@@ -65,7 +70,8 @@
         "presencesCount": 4
     },
     {
-        "groupID": "NOTgroupIdOfK209",
+        "groupID": "groupIdOfK201",
+        "groupName": "K201",
         "userID": "29d1e724-ae0f-11ed-9bd8-0242ac110002",
         "userFullname": "Karel Nekarel",
         "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
@@ -76,5 +82,33 @@
         "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
         "invitationTypeName": "organizator",
         "presencesCount": 15
+    },
+    {
+        "groupID": "groupIdOfK201",
+        "groupName": "K201",
+        "userID": "29d1e724-ae0f-11ed-9bd8-0242ac110002",
+        "userFullname": "Ivan NePytel",
+        "eventID": "45b2df80-ae0f-11ed-9bd6-0242ac110002",
+        "eventName": "ZaP",
+        "startdate": "2023-04-19T08:00:00",
+        "eventEndDate": "2023-04-19T09:00:00",
+        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
+        "invitationTypeName": "organizator",
+        "presencesCount": 5
+    },
+    {
+        "groupID": "groupIdOfK205",
+        "groupName": "K205",
+        "userID": "29d1e724-ae0f-11ed-9bd7-0242ac110002",
+        "userFullname": "Jan Plul",
+        "eventID": "45b2df80-ae0f-11ed-9bd8-0242ac110002",
+        "eventName": "ZaP",
+        "startdate": "2023-04-19T08:00:00",
+        "eventEndDate": "2023-04-19T09:00:00",
+        "presenceID": "89d1f3ae-ae0f-11ed-9bd8-0242ac110002",
+        "invitationTypeID": "e8713b6e-a79c-11ed-b76e-0242ac110002",
+        "invitationTypeName": "organizator",
+        "presencesCount": 8
     }
 ]
