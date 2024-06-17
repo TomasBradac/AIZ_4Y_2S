@@ -1,1 +1,14 @@
-[{"groupID": null, "groupName": null, "userID": null, "userFullname": null, "eventID": null, "eventName": null, "startdate": null, "eventEndDate": null, "presenceID": null, "invitationTypeID": null}]
+[
+    {
+        "groupID": null,
+        "groupName": null,
+        "userID": null,
+        "userFullname": null,
+        "eventID": null,
+        "eventName": null,
+        "startdate": null,
+        "eventEndDate": null,
+        "presenceID": null,
+        "invitationTypeID": null
+    }
+]
